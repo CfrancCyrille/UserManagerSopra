@@ -1,4 +1,4 @@
 # UserManagerSopra
 
-Fork moi, ajoute les sources de ton projet UserManager et fait une pull request...
+User manager de Aymerich DELETTRE
 
