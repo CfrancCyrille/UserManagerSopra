@@ -1,4 +1,4 @@
 # UserManagerSopra
 
-User manager de Aymerich DELETTRE
+User manager de Aymerich
 
