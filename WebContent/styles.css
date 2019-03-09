@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+body, p, legend, label, input {
+	font: normal 12px calibri, helvetica, sans-serif;
+}
+
+img {
+	width: 50px;
+}
+
+
+.info{
+	font-style: italic;
+	color: #900;
+}
